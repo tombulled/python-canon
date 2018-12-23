@@ -73,6 +73,8 @@ Beautiful Soup | https://www.crummy.com/software/BeautifulSoup/
 Software | Link
 -------- | ----
 Firefox Quantum: Developer Edition | https://www.mozilla.org/en-GB/firefox/developer/
+Atom | https://atom.io/
+Python | https://www.python.org/
 
 -----------------------------------
 
