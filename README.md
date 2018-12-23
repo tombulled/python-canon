@@ -20,6 +20,8 @@
 >>> 
 >>> # Create printer instance
 >>> printer = MG5700(HOST)
+>>> printer
+<Canon-MG5700(192.168.1.223)>
 >>> 
 >>> # Log in as an administrator
 >>> logged_in = printer.login(ADMIN_PASSWORD)
