@@ -23,7 +23,7 @@
 >>> printer
 <Canon-MG5700(192.168.1.223)>
 >>> 
->>> # Log in as an administrator
+>>> # Log-in as an Administrator
 >>> logged_in = printer.login(ADMIN_PASSWORD)
 >>> 
 >>> # Check the log-in was successful
