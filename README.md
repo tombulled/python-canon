@@ -67,3 +67,13 @@ Requests | https://github.com/requests/requests
 Beautiful Soup | https://www.crummy.com/software/BeautifulSoup/
 
 -----------------------------------
+
+### Software that was of great help:
+
+Software | Link
+-------- | ----
+Firefox Quantum: Developer Edition | https://www.mozilla.org/en-GB/firefox/developer/
+
+-----------------------------------
+
+Total printers harmed in the making of this code: **0**
